@@ -2,7 +2,7 @@ from flask import *
 import pickle
 import pandas as pd
 import numpy as np
-
+import sklearn
 app = Flask(__name__)
 
 
